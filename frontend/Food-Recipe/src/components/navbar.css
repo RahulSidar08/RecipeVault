@@ -1,0 +1,17 @@
+.title1{
+    color: blueviolet;
+}
+
+.title2{
+    color: rgb(203, 88, 88);
+}
+
+header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-around;
+    margin: 0 auto;
+    color: black;
+}
+
