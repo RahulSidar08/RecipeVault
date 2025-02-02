@@ -1,5 +1,5 @@
 # FOOD RECIPE WEB APP 
-ecipe Vault is a full-stack web application built with the MERN stack (MongoDB, Express.js, React, and Node.js) that allows users to manage, store, and share their favorite recipes.
+Recipe Vault is a full-stack web application built with the MERN stack (MongoDB, Express.js, React, and Node.js) that allows users to manage, store, and share their favorite recipes.
 
 # Tech Stack
 Frontend: React, Tailwind CSS
