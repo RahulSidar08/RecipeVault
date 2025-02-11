@@ -224,8 +224,8 @@ img{
 
 .form-control .input{
   flex-basis: 70%;
-  background-color: #fff;
-  color: black;
+  background-color: rgb(68, 68, 68);
+  color: white;
   border:1px solid rgb(156 163 175);
   border-radius: 4px;
   height: 30px;
@@ -234,8 +234,8 @@ img{
 
 .form-control .input-textarea{
   border: 1px solid rgb(156 163 175);
-  background-color: #fff;
-  color: black;
+  background-color: rgb(68, 68, 68);
+  color: white;
   border-radius: 4px;
   flex-basis: 70%;
   padding: 2px;
@@ -244,7 +244,7 @@ img{
 .form button{
   margin:2rem 0;
   border:none;
-  background-color: #d4f6e8;
+  background-color: rgb(68, 68, 68);
   font-size: 14px;
   box-shadow: 0 1px 5px rgba(0, 0, 0, 0.3);
 }
