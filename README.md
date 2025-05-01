@@ -12,3 +12,29 @@ Recipe Vault is a full-stack web application built with the MERN stack (MongoDB,
 
  Authentication: JSON Web Tokens (JWT) bcrypt 
 
+
+## 🛠️ Setup Instructions
+
+Clone the repo:
+
+```bash
+git clone https://github.com/your-username/link-analytics-dashboard.git
+cd link-analytics-dashboard
+  
+```
+## Backend Setup
+
+```bash
+cd backend
+npm install
+npm run start
+
+```
+## Frontend Setup
+
+```bash
+cd Food-Recipe
+npm install
+npm run dev
+
+```
