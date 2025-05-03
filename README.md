@@ -38,3 +38,13 @@ npm install
 npm run dev
 
 ```
+
+
+## 📌 Deployment
+- Frontend: Vercel
+- Backend: Render
+
+## Live
+```bash
+https://recipe-vault-navy.vercel.app/
+```
