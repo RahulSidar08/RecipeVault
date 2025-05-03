@@ -11,7 +11,6 @@ import home1 from "../assets/home1.jpg";
 export default function Home() {
   const navigate = useNavigate();
   const [isOpen, setIsOpen] = useState(false);
-  console.log("Inside home components");
 
   const addRecipe = () => {
     let token = localStorage.getItem("token");

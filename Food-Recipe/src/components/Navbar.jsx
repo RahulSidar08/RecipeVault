@@ -18,7 +18,6 @@ export default function Navbar() {
       localStorage.removeItem("token")
       localStorage.removeItem("user")
       setIsLogin(true)
-
     }
     else{
       setIsOpen(true)
