@@ -10,10 +10,9 @@ connectDb();
 app.use(express.json());
 const corsOptions = {
   origin: "https://recipe-vault-navy.vercel.app",
-  credentials: true,
+  credentials: true, // if using cookies or auth headers
 };
 app.use(cors(corsOptions));
-app.use(cors());
 app.use(express.static("public"));
 
 app.use("/", require("./routes/user"));
