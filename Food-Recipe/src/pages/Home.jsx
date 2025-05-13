@@ -27,11 +27,8 @@ export default function Home() {
         <div className="left">
           <h1>Food Recipe</h1>
           <h5>
-            It is a long established fact that a reader will be distracted by
-            the readable content of a page when looking at its layout. The point
-            of using Lorem Ipsum is that it has a more-or-less normal
-            distribution of letters, as opposed to using 'Content here, content
-            here', making it look like readable English.
+            Explore a world of flavors with easy-to-follow recipes for every occasion. 
+            Whether you're a home cook or a foodie, find inspiration, cook confidently, and share your passion for great food.
           </h5>
           <button onClick={addRecipe}>Create your recipe</button>
         </div>
